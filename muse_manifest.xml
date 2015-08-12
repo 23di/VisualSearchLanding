@@ -1,33 +1,34 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://23di.github.io/VisualSearchLanding" resolutions="1x" timestamp="1439413210392">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://23di.github.io/VisualSearchLanding" resolutions="1x" timestamp="1439416959484">
   <folder name="fonts">
     <file name="textbooknew-regular.woff" crc="171508"/>
     <file name="textbooknew-regular.eot" crc="4263654869"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="index.css" crc="250240464" ref="index"/>
+    <file name="index.css" crc="7407868" ref="index"/>
   </folder>
   <folder name="assets">
     <folder name="main2">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1439401663000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1439414815000"/>
       </folder>
       <folder name="images">
-        <file name="3.png" crc="284487666" mt="1439401663000"/>
-        <file name="4.jpg" crc="253935108" mt="1439401663000"/>
-        <file name="4.png" crc="318686180" mt="1439401663000"/>
-        <file name="album.jpg" crc="3851613718" mt="1439401663000"/>
-        <file name="back2.png" crc="3975529371" mt="1439401663000"/>
-        <file name="BG.jpg" crc="395150556" mt="1439401663000"/>
-        <file name="Camera_icon.png" crc="80437904" mt="1439401663000"/>
-        <file name="card.png" crc="4078271064" mt="1439401663000"/>
-        <file name="close2.png" crc="161707209" mt="1439401663000"/>
-        <file name="icon.png" crc="4043824029" mt="1439401663000"/>
-        <file name="ic_perm_camera_mic_black_24dp_2x.png" crc="4265289017" mt="1439401663000"/>
-        <file name="Poster.png" crc="4043824029" mt="1439401663000"/>
+        <file name="3.png" crc="284487666" mt="1439414815000"/>
+        <file name="4.jpg" crc="253935108" mt="1439414815000"/>
+        <file name="4.png" crc="318686180" mt="1439414815000"/>
+        <file name="album.jpg" crc="3851613718" mt="1439414815000"/>
+        <file name="back2.png" crc="3975529371" mt="1439414815000"/>
+        <file name="BG.jpg" crc="395150556" mt="1439414815000"/>
+        <file name="Camera_icon.png" crc="80437904" mt="1439414815000"/>
+        <file name="card.png" crc="4078271064" mt="1439414815000"/>
+        <file name="close2.png" crc="161707209" mt="1439414815000"/>
+        <file name="icon.png" crc="4043824029" mt="1439414815000"/>
+        <file name="ic_perm_camera_mic_black_24dp_2x.png" crc="4265289017" mt="1439414815000"/>
+        <file name="Poster.png" crc="4043824029" mt="1439414815000"/>
+        <file name="hands_PNG898.png" crc="4172415326" mt="1439414815000"/>
       </folder>
-      <file name="main2_edge.js" crc="124966584" mt="1439401663000"/>
-      <file name="main2.html" crc="3865142887" mt="1439401663000"/>
+      <file name="main2_edge.js" crc="3884568685" mt="1439414815000"/>
+      <file name="main2.html" crc="3931745180" mt="1439414815000"/>
     </folder>
     <file name="main.an" crc="213748908" seo="true" mt="1439385278000"/>
   </folder>
@@ -41,7 +42,6 @@
   <folder name="images">
     <file name="logo.png" crc="42518613" seo="true" ref="index"/>
     <file name="127558.jpg" crc="104612758" ref="index"/>
-    <file name="bg.jpg" crc="4060981363" ref="index"/>
     <file name="открыть-standart.png" crc="173353217" ref="index"/>
     <file name="открыть-overlay.png" crc="117447675" ref="index"/>
     <file name="открыть-pressed.png" crc="228630644" ref="index"/>
@@ -51,6 +51,7 @@
     <file name="bg.png" crc="3822895168" seo="true" ref="index"/>
     <file name="last.jpg" crc="3875798330" seo="true" ref="index"/>
     <file name="footer.jpg" crc="344916592" seo="true" ref="index"/>
+    <file name="bg.jpg" crc="4060981363" ref="index"/>
   </folder>
-  <file name="index.html" crc="3933032906" seo="true" mt="1439411703490" redirect="true"/>
+  <file name="index.html" crc="130418363" seo="true" mt="1439416946939" redirect="true"/>
 </manifest>

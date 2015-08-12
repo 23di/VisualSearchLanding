@@ -1,0 +1,10 @@
+[0813/000321:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0813/000325:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0813/000326:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0813/000333:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0813/000333:INFO:CONSOLE(1)] "ReferenceError: EdgeDOM is not defined
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:13)
+    at <anonymous>:0:53", source:  (1)
+[0813/000927:INFO:CONSOLE(0)] "Uncaught TypeError: Cannot read property 'nodeType' of undefined,0", source: about:docKey-554 (0)
+[0813/000927:INFO:CONSOLE(0)] "Uncaught TypeError: Cannot read property 'nodeType' of undefined", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/yura__000/Google%20%D0%94%D0%B8%D1%81%D0%BA/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81/%D0%9C%D0%BE%D0%B5/Demo/main2/edge_includes/jquery-2.0.3.min.js (0)
+[0813/003015:ERROR:ipc_channel_win.cc(132)] pipe error: 109
