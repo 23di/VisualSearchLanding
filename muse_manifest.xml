@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://23di.github.io/YaProject" resolutions="1x" timestamp="1439412370997">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://23di.github.io/VisualSearchLanding" resolutions="1x" timestamp="1439413210392">
   <folder name="fonts">
     <file name="textbooknew-regular.woff" crc="171508"/>
     <file name="textbooknew-regular.eot" crc="4263654869"/>
