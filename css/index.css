@@ -4,8 +4,8 @@
 
 .version.index /* version checker */
 {
-	color: #0000FF;
-	background-color: #21BCF8;
+	color: #000017;
+	background-color: #16AC37;
 }
 
 .html
@@ -439,6 +439,13 @@
 	left: 180px;
 }
 
+#u314-2,#u319-2,#u320-2,#u329-2
+{
+	font-size: 36px;
+	line-height: 43px;
+	padding-bottom: 20px;
+}
+
 #u328
 {
 	z-index: 22;
@@ -463,10 +470,11 @@
 	left: 200px;
 }
 
-#u314-2,#u319-2,#u320-2,#u329-2,#u334-2
+#u334-2
 {
 	font-size: 36px;
 	line-height: 43px;
+	text-indent: -15px;
 	padding-bottom: 20px;
 }
 
