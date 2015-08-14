@@ -4,8 +4,8 @@
 
 .version.index /* version checker */
 {
-	color: #0000E2;
-	background-color: #0FF8BB;
+	color: #0000EF;
+	background-color: #8A3760;
 }
 
 .html
@@ -163,21 +163,14 @@
 	padding-bottom: 20px;
 }
 
-#pu254
-{
-	width: 0.01px;
-	left: 200px;
-	margin-top: 20px;
-	position: relative;
-}
-
 #u254
 {
 	z-index: 76;
 	width: 170px;
 	height: 50px;
+	left: 200px;
+	margin-top: 20px;
 	position: relative;
-	margin-right: -10000px;
 	background: transparent url("../images/%d0%be%d1%82%d0%ba%d1%80%d1%8b%d1%82%d1%8c-standart.png") no-repeat left top;
 	background-size: contain;
 }
@@ -187,7 +180,7 @@
 	width: 170px;
 	height: 50px;
 	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
+	margin: 20px 0px 0px;
 	background: transparent url("../images/%d0%be%d1%82%d0%ba%d1%80%d1%8b%d1%82%d1%8c-overlay.png") no-repeat left top;
 	background-size: contain;
 }
@@ -197,40 +190,8 @@
 	width: 170px;
 	height: 50px;
 	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
+	margin: 20px 0px 0px;
 	background: transparent url("../images/%d0%be%d1%82%d0%ba%d1%80%d1%8b%d1%82%d1%8c-pressed.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u286
-{
-	z-index: 77;
-	width: 200px;
-	height: 50px;
-	position: relative;
-	margin-right: -10000px;
-	left: 189px;
-	background: transparent url("../images/%d1%83%d0%b7%d0%bd%d0%b0%d1%82%d1%8c-standart.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u286:hover
-{
-	width: 200px;
-	height: 50px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/%d1%83%d0%b7%d0%bd%d0%b0%d1%82%d1%8c-overlay.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u286:active
-{
-	width: 200px;
-	height: 50px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/%d1%83%d0%b7%d0%bd%d0%b0%d1%82%d1%8c-pressed.png") no-repeat left top;
 	background-size: contain;
 }
 
@@ -241,23 +202,23 @@
 	margin-top: 100px;
 }
 
-#pu219
+#pu475
 {
 	width: 0.01px;
-	padding-bottom: 474px;
-	margin-left: 660px;
-	margin-top: -588px;
+	padding-bottom: 478px;
+	margin-left: 658px;
+	margin-top: -589px;
 }
 
-#u219
+#u475
 {
 	z-index: 29;
-	width: 239px;
+	width: 242px;
 	background-color: transparent;
 	position: fixed;
-	top: 92px;
+	top: 91px;
 	left: 50%;
-	margin-left: 170px;
+	margin-left: 168px;
 }
 
 #u225
@@ -272,7 +233,7 @@
 	margin-left: 180px;
 }
 
-#U460_animation
+#U464_animation
 {
 	width: 220px;
 	height: 390px;

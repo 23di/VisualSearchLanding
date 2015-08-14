@@ -37,7 +37,7 @@
 	"pixelsPerMs":"0.12932818757746",
 	"expanded:images/card.png":"nil",
 	"stage-Default Timeline_mark_ms":"-1",
-	"nextElementColorIndex":"6",
+	"nextElementColorIndex":"8",
 	"expanded:images/22.jpg":"nil",
 	"expanded:images/album.jpg":"nil",
 	"expanded:images/play.png":"nil",
@@ -80,12 +80,12 @@
    }}\
 }",
 	"expanded:images/hands_PNG898.png":"nil",
-	"stage-Default Timeline_playhead_ms":"5613",
+	"stage-Default Timeline_playhead_ms":"8995",
 	"expanded:images/ic_perm_camera_mic_black_24dp_2x.png":"nil",
 	"StageZoomFactor":"400",
 	"expanded:images/4.jpg":"nil",
-	"viewStartMs":"1193.3498535156",
-	"pref__general__AutoKeyframePropertiesArmed":"true",
+	"viewStartMs":"5976.0029296875",
+	"pref__general__AutoKeyframePropertiesArmed":"false",
 	"expanded:images/BG.jpg":"nil",
 	"symbol_stage":{
 		"element_${Seamless}":{
@@ -176,6 +176,11 @@
 			"animationEnabled":"true",
 			"timelineColor3":"0x70657c",
 			"timelineColor":"0xceaef4"},
+		"element_${Text2Copy2}":{
+			"timelineColor2":"0x1095d2",
+			"animationEnabled":"true",
+			"timelineColor3":"0x29647e",
+			"timelineColor":"0x00a9fa"},
 		"element_${x}":{
 			"timelineColor2":"0x4fa275",
 			"animationEnabled":"false",
@@ -206,6 +211,10 @@
 			"timelineColor3":"0x5b6c4d",
 			"animationEnabled":"false",
 			"timelineColor":"0x91c767"},
+		"element_${Text2Copy}":{
+			"timelineColor2":"0x326a96",
+			"timelineColor3":"0x385063",
+			"timelineColor":"0x2f73ad"},
 		"defaultStageParentWidth":"220px",
 		"element_${TextCopy3}":{
 			"timelineColor2":"0x168c84",
@@ -540,7 +549,7 @@
 			"timelineColor":"0x00a9fa",
 			"animationEnabled":"true",
 			"invisible":"false"}},
-	"TransitionIdCounter":"730",
+	"TransitionIdCounter":"731",
 	"symbol_Down-level":{
 		"dummyStageParentWidth":"220px",
 		"element_${Poster}":{
@@ -550,7 +559,7 @@
 		"dummyStageParentHeight":"390px",
 		"defaultStageParentWidth":"220px",
 		"defaultStageParentHeight":"390px"},
-	"viewStartY":"1368",
+	"viewStartY":"77",
 	"symbol_Card":{
 		"element_${headerSmallCopy}":{
 			"timelineColor2":"0x326a96",
