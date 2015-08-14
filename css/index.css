@@ -4,8 +4,8 @@
 
 .version.index /* version checker */
 {
-	color: #000019;
-	background-color: #79F8E8;
+	color: #00000B;
+	background-color: #83AD31;
 }
 
 .html
@@ -89,10 +89,10 @@
 	width: 180px;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #3D71BD;
 	font-size: 16px;
 	text-align: center;
+	line-height: 19px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 43px;
@@ -401,9 +401,9 @@
 	width: 380px;
 	min-height: 110px;
 	background-color: transparent;
-	line-height: 43px;
 	color: #000000;
 	font-size: 36px;
+	line-height: 43px;
 	font-family: '__Textbook New_5';
 	font-weight: 400;
 	margin-left: 100px;
@@ -532,10 +532,10 @@
 	width: 500px;
 	min-height: 60px;
 	background-color: transparent;
-	line-height: 43px;
 	color: #000000;
 	font-size: 36px;
 	text-align: center;
+	line-height: 43px;
 	font-family: '__Textbook New_5';
 	font-weight: 400;
 	left: 340px;
