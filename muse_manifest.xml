@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://23di.github.io/VisualSearchLanding" resolutions="1x" timestamp="1440282457492">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://23di.github.io/VisualSearchLanding" resolutions="1x" timestamp="1440337255861">
   <folder name="fonts">
     <file name="textbooknew-regular.woff" crc="171508"/>
     <file name="textbooknew-regular.eot" crc="4263654869"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="index.css" crc="119193017" ref="index"/>
+    <file name="index.css" crc="4170589882" ref="index"/>
   </folder>
   <folder name="assets">
     <folder name="main2">
@@ -54,5 +54,5 @@
     <file name="узнать-pressed.png" crc="483619640" ref="index"/>
     <file name="bg2.jpg" crc="3857160994" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4051511376" seo="true" mt="1440281697936" redirect="true"/>
+  <file name="index.html" crc="324981477" seo="true" mt="1440336809375" redirect="true"/>
 </manifest>

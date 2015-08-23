@@ -4,8 +4,8 @@
 
 .version.index /* version checker */
 {
-	color: #000007;
-	background-color: #1ABDB9;
+	color: #0000F8;
+	background-color: #9626BA;
 }
 
 .html
@@ -113,15 +113,15 @@
 	width: 980px;
 	position: relative;
 	left: -100px;
-	padding-top: 155px;
-	padding-bottom: 165px;
+	padding-top: 185px;
+	padding-bottom: 195px;
 }
 
 #u230-6
 {
 	z-index: 63;
 	width: 460px;
-	min-height: 190px;
+	min-height: 148px;
 	background-color: transparent;
 	color: #FFFFFF;
 	font-family: '__Textbook New_5';
@@ -141,7 +141,7 @@
 {
 	width: 0.01px;
 	left: 200px;
-	margin-top: 20px;
+	margin-top: 2px;
 	position: relative;
 }
 
@@ -511,10 +511,10 @@
 	width: 500px;
 	min-height: 60px;
 	background-color: transparent;
+	line-height: 43px;
 	color: #000000;
 	font-size: 36px;
 	text-align: center;
-	line-height: 43px;
 	font-family: '__Textbook New_5';
 	font-weight: 400;
 	left: 340px;
