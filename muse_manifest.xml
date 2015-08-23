@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://23di.github.io/VisualSearchLanding" resolutions="1x" timestamp="1440342939431">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://23di.github.io/VisualSearchLanding" resolutions="1x" timestamp="1440349894827">
   <folder name="fonts">
     <file name="textbooknew-regular.woff" crc="171508"/>
     <file name="textbooknew-regular.eot" crc="4263654869"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="index.css" crc="4255798639" ref="index"/>
+    <file name="index.css" crc="431018686" ref="index"/>
   </folder>
   <folder name="assets">
     <folder name="main2">
@@ -31,7 +31,7 @@
       <file name="main2_edge.js" crc="4250943350" mt="1440342718000"/>
       <file name="main2.html" crc="4017608570" mt="1440342718000"/>
     </folder>
-    <file name="main2.an" crc="523867665" seo="true" mt="1439584666000"/>
+    <file name="main2.an" crc="329419454" seo="true" mt="1440343541000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
@@ -41,7 +41,7 @@
     <file name="jquery.scrolleffects.js" crc="206645848" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="logo.png" crc="42518613" seo="true" ref="index"/>
+    <file name="logo.png" crc="481409242" seo="true" ref="index"/>
     <file name="127558.jpg" crc="104612758" ref="index"/>
     <file name="открыть-standart.png" crc="173353217" ref="index"/>
     <file name="открыть-overlay.png" crc="117447675" ref="index"/>
@@ -54,5 +54,5 @@
     <file name="узнать-pressed.png" crc="483619640" ref="index"/>
     <file name="bg2.jpg" crc="3857160994" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="201751129" seo="true" mt="1440342862528" redirect="true"/>
+  <file name="index.html" crc="177223641" seo="true" mt="1440349869542" redirect="true"/>
 </manifest>

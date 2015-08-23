@@ -4,8 +4,8 @@
 
 .version.index /* version checker */
 {
-	color: #0000FD;
-	background-color: #AA556F;
+	color: #000019;
+	background-color: #B0D2BE;
 }
 
 .html
@@ -41,20 +41,20 @@
 #u316
 {
 	z-index: 32;
-	min-height: 68px;
+	min-height: 85px;
 	background-color: transparent;
-	padding-bottom: 32px;
+	padding-bottom: 15px;
 }
 
-#u209
+#u527
 {
-	z-index: 52;
+	z-index: 73;
 	width: 264px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 30px;
-	left: 200px;
+	margin-top: 12px;
+	left: 180px;
 }
 
 #u353-4
@@ -63,10 +63,10 @@
 	width: 180px;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #3D71BD;
 	font-size: 16px;
 	text-align: center;
+	line-height: 19px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 43px;
@@ -76,7 +76,7 @@
 #u316-bw
 {
 	z-index: 32;
-	min-height: 68px;
+	min-height: 85px;
 }
 
 #pu409
@@ -87,7 +87,7 @@
 
 #u409
 {
-	z-index: 55;
+	z-index: 53;
 	width: 157px;
 	min-height: 136px;
 	border-style: none;
@@ -100,7 +100,7 @@
 
 #u321
 {
-	z-index: 62;
+	z-index: 60;
 	min-height: 580px;
 	background: transparent url("../images/bg.jpg") no-repeat center center;
 	background-size: cover;
@@ -119,7 +119,7 @@
 
 #u230-6
 {
-	z-index: 63;
+	z-index: 61;
 	width: 460px;
 	min-height: 148px;
 	background-color: transparent;
@@ -147,7 +147,7 @@
 
 #u254
 {
-	z-index: 69;
+	z-index: 67;
 	width: 170px;
 	height: 50px;
 	position: relative;
@@ -178,7 +178,7 @@
 
 #u286
 {
-	z-index: 70;
+	z-index: 68;
 	width: 200px;
 	height: 50px;
 	position: relative;
@@ -210,7 +210,7 @@
 
 #u321-bw
 {
-	z-index: 62;
+	z-index: 60;
 	min-height: 580px;
 }
 
@@ -374,9 +374,9 @@
 	width: 380px;
 	min-height: 110px;
 	background-color: transparent;
-	line-height: 43px;
 	color: #000000;
 	font-size: 36px;
+	line-height: 43px;
 	font-family: '__Textbook New_5';
 	font-weight: 400;
 	margin-left: 100px;
@@ -511,10 +511,10 @@
 	width: 500px;
 	min-height: 60px;
 	background-color: transparent;
-	line-height: 43px;
 	color: #000000;
 	font-size: 36px;
 	text-align: center;
+	line-height: 43px;
 	font-family: '__Textbook New_5';
 	font-weight: 400;
 	left: 340px;
@@ -524,7 +524,7 @@
 
 #u514
 {
-	z-index: 71;
+	z-index: 69;
 	width: 1041px;
 	background-color: transparent;
 	left: 69px;
@@ -540,7 +540,7 @@
 
 #u347
 {
-	z-index: 73;
+	z-index: 71;
 	width: 955px;
 	background-color: transparent;
 	position: relative;
